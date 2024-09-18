@@ -1,0 +1,53 @@
+.fundo1 {
+    background: #17a2b8;
+    color: white;
+}
+
+.fundo2 {
+    background: #f88379;
+    color: white;
+}
+
+.fundo3 {
+    background: #b5c689;
+    color: white;
+}
+
+.fundo4 {
+    background: #ffc36e;
+    color: white;
+}
+
+
+.ico-size {
+    font-size: large
+}
+
+.borda {
+    border: 1px solid red;
+}
+
+.caixa {
+    padding-top: 60px;
+    border-bottom: #17a2b8;
+}
+
+footer p a {
+    margin: 5px 15px;
+}
+
+#rodape {
+	clear: both;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 5px;
+}
+
+#assinatura {
+	text-align: center;
+}
+
+#assinatura img {
+	width: 50px;
+	border-radius: 50%;
+}
